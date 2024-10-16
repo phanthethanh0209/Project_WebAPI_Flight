@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TheThanh_WebAPI_Flight.props" />
+</Project>

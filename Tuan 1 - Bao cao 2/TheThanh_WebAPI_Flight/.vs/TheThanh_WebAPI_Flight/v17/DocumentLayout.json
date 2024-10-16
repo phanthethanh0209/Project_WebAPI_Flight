@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\mapper\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\data\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tuan 1 - bao cao 2\\thethanh_webapi_flight\\migrations\\20241016160047_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:migrations\\20241016160047_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:54:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAUwEcAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:52:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAADwv0QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:47:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDBContext.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "Data\\MyDBContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:25:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingUser.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Mapper\\MappingUser.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingUser.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Mapper\\MappingUser.cs",
+              "RelativeToolTip": "Mapper\\MappingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:04:51.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Validation\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\UserValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Validation\\UserValidator.cs",
+              "RelativeToolTip": "Validation\\UserValidator.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:59:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAA7wDwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:06:32.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Data\\DocumentType.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\DocumentType.cs",
+              "RelativeToolTip": "Data\\DocumentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:20:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:18:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateUserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "DTO\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:56:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwCwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:38:12.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20241016160047_DBInit.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Migrations\\20241016160047_DBInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241016160047_DBInit.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Migrations\\20241016160047_DBInit.cs",
+              "RelativeToolTip": "Migrations\\20241016160047_DBInit.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:00:47.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Repository\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryWrapper.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\Repository\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Repository\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:49:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\Tuan 1 - Bao cao 2\\TheThanh_WebAPI_Flight\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T15:37:33.621Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
