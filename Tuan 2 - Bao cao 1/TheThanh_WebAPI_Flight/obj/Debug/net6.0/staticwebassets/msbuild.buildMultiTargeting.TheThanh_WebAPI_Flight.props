@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TheThanh_WebAPI_Flight.props" />
+</Project>
