@@ -1,0 +1,1485 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\documentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:repository\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\authorization\\permissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:authorization\\permissionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:authorization\\permissionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\authorization\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:authorization\\userpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\authorization\\customauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:authorization\\customauthorizationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\flightservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\documenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\documenttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\documenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\documenttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\roleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\roleusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\createdoctypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\createdoctypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\documentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\roleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\roleuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\roleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingroleuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\roleuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\createdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\createdocumentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103044321_DBUpdate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103043639_DBUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:repository\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\documenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\roledocumenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\roledocumenttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\rolepermissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingdoctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingdoctype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\createflightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\createflightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111420_DBInit5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111208_DBInit4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\authvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\roledocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\roledocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\rolepermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\rolepermissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\listdoctypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\listdoctypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:controllers\\permissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092903_DBInit2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092433_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092235_DBUpdate3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingrolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingrolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingpermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\rolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\rolevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\roleuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\roleuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\permissionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\permissionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\validation\\rolepermissionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:validation\\rolepermissionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:services\\permissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\rolepermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\rolepermissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\permissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085441_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085334_DBTEST9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084936_DBTEST8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084245_DBTEST.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083229_DBInitaa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083152_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082544_Update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082156_Update5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082033_Update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101081924_Update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:data\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080914_Update2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080408_Update6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080242_Update5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080044_Update4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappinguser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\mapper\\mappingflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:mapper\\mappingflight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101072013_Update3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\dto\\flightresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:dto\\flightresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241021030352_DBUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\migrations\\20241103050011_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:migrations\\20241103050011_dbupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|d:\\th\u1EF1c t\u1EADp back-end\\project_flight\\upgithub\\project_webapi_flight\\tongketduan\\thethanh_webapi_flight\\migrations\\20241103045430_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A364C84F-8341-47B8-85CB-70882C4C5398}|TheThanh_WebAPI_Flight.csproj|solutionrelative:migrations\\20241103045430_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DocumentService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\DocumentService.cs",
+              "RelativeDocumentMoniker": "Services\\DocumentService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\DocumentService.cs",
+              "RelativeToolTip": "Services\\DocumentService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAjwBQAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:34:37.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PermissionRequirement.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\PermissionRequirement.cs",
+              "RelativeDocumentMoniker": "Authorization\\PermissionRequirement.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\PermissionRequirement.cs",
+              "RelativeToolTip": "Authorization\\PermissionRequirement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:35:32.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPermission.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\UserPermission.cs",
+              "RelativeDocumentMoniker": "Authorization\\UserPermission.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\UserPermission.cs",
+              "RelativeToolTip": "Authorization\\UserPermission.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:35:36.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PermissionHandler.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\PermissionHandler.cs",
+              "RelativeDocumentMoniker": "Authorization\\PermissionHandler.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\PermissionHandler.cs",
+              "RelativeToolTip": "Authorization\\PermissionHandler.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACAAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:35:28.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Repository\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryBase.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Repository\\RepositoryBase.cs",
+              "RelativeToolTip": "Repository\\RepositoryBase.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:47:47.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Controllers\\DocumentController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAEwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:13:14.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA1wAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:06:32.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomAuthorizationAttribute.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\CustomAuthorizationAttribute.cs",
+              "RelativeDocumentMoniker": "Authorization\\CustomAuthorizationAttribute.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Authorization\\CustomAuthorizationAttribute.cs",
+              "RelativeToolTip": "Authorization\\CustomAuthorizationAttribute.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowC4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:35:10.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FlightService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\FlightService.cs",
+              "RelativeDocumentMoniker": "Services\\FlightService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\FlightService.cs",
+              "RelativeToolTip": "Services\\FlightService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:45:23.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentTypeService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\DocumentTypeService.cs",
+              "RelativeDocumentMoniker": "Services\\DocumentTypeService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\DocumentTypeService.cs",
+              "RelativeToolTip": "Services\\DocumentTypeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:49:36.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAFIAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:56:57.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DocumentTypeController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\DocumentTypeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocumentTypeController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\DocumentTypeController.cs",
+              "RelativeToolTip": "Controllers\\DocumentTypeController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCcAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:07:09.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:31:03.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleUserController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RoleUserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleUserController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RoleUserController.cs",
+              "RelativeToolTip": "Controllers\\RoleUserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:31:33.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Document.cs",
+              "RelativeDocumentMoniker": "Data\\Document.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Document.cs",
+              "RelativeToolTip": "Data\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:57:12.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:52:56.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateDocTypeDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateDocTypeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateDocTypeDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateDocTypeDTO.cs",
+              "RelativeToolTip": "DTO\\CreateDocTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:42:47.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Data\\User.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\User.cs",
+              "RelativeToolTip": "Data\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAIA0wBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:18:34.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleUser.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleUser.cs",
+              "RelativeDocumentMoniker": "Data\\RoleUser.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleUser.cs",
+              "RelativeToolTip": "Data\\RoleUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:08:08.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "Data\\MyDBContext.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\MyDBContext.cs",
+              "RelativeToolTip": "Data\\MyDBContext.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:25:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoleUserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RoleUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RoleUserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RoleUserDTO.cs",
+              "RelativeToolTip": "DTO\\RoleUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:25:26.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MappingRoleUser.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRoleUser.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingRoleUser.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRoleUser.cs",
+              "RelativeToolTip": "Mapper\\MappingRoleUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:24:20.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleUserService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RoleUserService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleUserService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RoleUserService.cs",
+              "RelativeToolTip": "Services\\RoleUserService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAwCYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:57:16.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DocumentDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\DocumentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\DocumentDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\DocumentDTO.cs",
+              "RelativeToolTip": "DTO\\DocumentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:19:08.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateDocumentDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateDocumentDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateDocumentDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateDocumentDTO.cs",
+              "RelativeToolTip": "DTO\\CreateDocumentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:35:49.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MappingDocument.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingDocument.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingDocument.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingDocument.cs",
+              "RelativeToolTip": "Mapper\\MappingDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T02:52:13.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAowDcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:38:12.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FlightController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "Controllers\\FlightController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:35:17.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\UserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:54:09.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20241103044321_DBUpdate2.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103044321_DBUpdate2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241103044321_DBUpdate2.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103044321_DBUpdate2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241103044321_DBUpdate2.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:43:21.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T15:37:33.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "20241103050011_DBUpdate.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Migrations\\20241103050011_DBUpdate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241103050011_DBUpdate.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Migrations\\20241103050011_DBUpdate.cs",
+              "RelativeToolTip": "Migrations\\20241103050011_DBUpdate.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T05:00:11.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "20241103045430_DBInit.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Migrations\\20241103045430_DBInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241103045430_DBInit.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Migrations\\20241103045430_DBInit.cs",
+              "RelativeToolTip": "Migrations\\20241103045430_DBInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:54:30.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241103043639_DBUpdate.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103043639_DBUpdate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241103043639_DBUpdate.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241103043639_DBUpdate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241103043639_DBUpdate.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T04:36:40.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Repository\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Repository\\RepositoryWrapper.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Repository\\RepositoryWrapper.cs",
+              "RelativeToolTip": "Repository\\RepositoryWrapper.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA7wBoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:49:08.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Permission.cs",
+              "RelativeDocumentMoniker": "Data\\Permission.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Permission.cs",
+              "RelativeToolTip": "Data\\Permission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:08:47.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DocumentType.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\DocumentType.cs",
+              "RelativeDocumentMoniker": "Data\\DocumentType.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\DocumentType.cs",
+              "RelativeToolTip": "Data\\DocumentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:20:06.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Role.cs",
+              "RelativeDocumentMoniker": "Data\\Role.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Role.cs",
+              "RelativeToolTip": "Data\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:08:26.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RolePermission.cs",
+              "RelativeDocumentMoniker": "Data\\RolePermission.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RolePermission.cs",
+              "RelativeToolTip": "Data\\RolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:08:35.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RoleDocumentType.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleDocumentType.cs",
+              "RelativeDocumentMoniker": "Data\\RoleDocumentType.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleDocumentType.cs",
+              "RelativeToolTip": "Data\\RoleDocumentType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:19:46.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Flight.cs",
+              "RelativeDocumentMoniker": "Data\\Flight.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\Flight.cs",
+              "RelativeToolTip": "Data\\Flight.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:58:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RolePermissionController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RolePermissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RolePermissionController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RolePermissionController.cs",
+              "RelativeToolTip": "Controllers\\RolePermissionController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:32:02.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CreateUserDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateUserDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateUserDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateUserDTO.cs",
+              "RelativeToolTip": "DTO\\CreateUserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:56:53.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MappingDocType.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingDocType.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingDocType.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingDocType.cs",
+              "RelativeToolTip": "Mapper\\MappingDocType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:56:41.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CreateFlightDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateFlightDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CreateFlightDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\CreateFlightDTO.cs",
+              "RelativeToolTip": "DTO\\CreateFlightDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:46:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241101111420_DBInit5.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111420_DBInit5.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101111420_DBInit5.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111420_DBInit5.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101111420_DBInit5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:14:20.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241101111208_DBInit4.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111208_DBInit4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101111208_DBInit4.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101111208_DBInit4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101111208_DBInit4.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:12:08.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AuthValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\AuthValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\AuthValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\AuthValidator.cs",
+              "RelativeToolTip": "Validation\\AuthValidator.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAYwAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:04:48.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\UserValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\UserValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\UserValidator.cs",
+              "RelativeToolTip": "Validation\\UserValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T15:59:57.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoleDocument.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleDocument.cs",
+              "RelativeDocumentMoniker": "Data\\RoleDocument.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RoleDocument.cs",
+              "RelativeToolTip": "Data\\RoleDocument.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:37:38.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RolePermissionService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RolePermissionService.cs",
+              "RelativeDocumentMoniker": "Services\\RolePermissionService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RolePermissionService.cs",
+              "RelativeToolTip": "Services\\RolePermissionService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAswC0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:01:17.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RoleDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RoleDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RoleDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RoleDTO.cs",
+              "RelativeToolTip": "DTO\\RoleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:25:39.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TokenDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\TokenDTO.cs",
+              "RelativeToolTip": "DTO\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:26:11.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ListDocTypeDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\ListDocTypeDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ListDocTypeDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\ListDocTypeDTO.cs",
+              "RelativeToolTip": "DTO\\ListDocTypeDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T01:47:30.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoleController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Controllers\\RoleController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:32:30.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\LoginDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:34:05.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "PermissionController.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\PermissionController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PermissionController.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Controllers\\PermissionController.cs",
+              "RelativeToolTip": "Controllers\\PermissionController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wEEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:32:59.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FlightDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\FlightDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\FlightDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\FlightDTO.cs",
+              "RelativeToolTip": "DTO\\FlightDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:30:28.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20241101092903_DBInit2.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092903_DBInit2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092903_DBInit2.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092903_DBInit2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092903_DBInit2.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:29:03.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20241101092433_DBInit.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092433_DBInit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092433_DBInit.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092433_DBInit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092433_DBInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:24:33.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20241101092235_DBUpdate3.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092235_DBUpdate3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092235_DBUpdate3.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101092235_DBUpdate3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101092235_DBUpdate3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:22:36.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MappingRolePermission.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRolePermission.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingRolePermission.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRolePermission.cs",
+              "RelativeToolTip": "Mapper\\MappingRolePermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:24:32.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "MappingPermission.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingPermission.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingPermission.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingPermission.cs",
+              "RelativeToolTip": "Mapper\\MappingPermission.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:24:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "MappingRole.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRole.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingRole.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingRole.cs",
+              "RelativeToolTip": "Mapper\\MappingRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:24:13.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "RoleValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RoleValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\RoleValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RoleValidator.cs",
+              "RelativeToolTip": "Validation\\RoleValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:05:56.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "RoleUserValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RoleUserValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\RoleUserValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RoleUserValidator.cs",
+              "RelativeToolTip": "Validation\\RoleUserValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:05:46.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "PermissionValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\PermissionValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\PermissionValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\PermissionValidator.cs",
+              "RelativeToolTip": "Validation\\PermissionValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:05:22.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "RolePermissionValidator.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RolePermissionValidator.cs",
+              "RelativeDocumentMoniker": "Validation\\RolePermissionValidator.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Validation\\RolePermissionValidator.cs",
+              "RelativeToolTip": "Validation\\RolePermissionValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:05:35.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\RoleService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\RoleService.cs",
+              "RelativeToolTip": "Services\\RoleService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA4wBUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:57:03.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "PermissionService.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\PermissionService.cs",
+              "RelativeDocumentMoniker": "Services\\PermissionService.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Services\\PermissionService.cs",
+              "RelativeToolTip": "Services\\PermissionService.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAA2wBUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T09:01:23.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "RolePermissionDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RolePermissionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\RolePermissionDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\RolePermissionDTO.cs",
+              "RelativeToolTip": "DTO\\RolePermissionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:25:48.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "PermissionDTO.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\PermissionDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PermissionDTO.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\PermissionDTO.cs",
+              "RelativeToolTip": "DTO\\PermissionDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:25:43.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20241101085441_DBInit.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085441_DBInit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101085441_DBInit.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085441_DBInit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101085441_DBInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:54:41.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20241101083229_DBInitaa.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083229_DBInitaa.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101083229_DBInitaa.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083229_DBInitaa.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101083229_DBInitaa.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:32:29.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20241101084245_DBTEST.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084245_DBTEST.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101084245_DBTEST.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084245_DBTEST.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101084245_DBTEST.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:42:45.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20241101085334_DBTEST9.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085334_DBTEST9.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101085334_DBTEST9.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101085334_DBTEST9.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101085334_DBTEST9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:53:34.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20241101084936_DBTEST8.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084936_DBTEST8.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101084936_DBTEST8.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101084936_DBTEST8.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101084936_DBTEST8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:49:36.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20241101083152_DBInit.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083152_DBInit.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101083152_DBInit.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101083152_DBInit.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101083152_DBInit.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:31:52.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20241101082544_Update6.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082544_Update6.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082544_Update6.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082544_Update6.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082544_Update6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:25:44.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20241101082156_Update5.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082156_Update5.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082156_Update5.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082156_Update5.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082156_Update5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:21:57.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20241101082033_Update4.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082033_Update4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082033_Update4.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101082033_Update4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101082033_Update4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:20:34.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "20241101081924_Update3.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101081924_Update3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101081924_Update3.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101081924_Update3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101081924_Update3.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:19:24.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "20241101080914_Update2.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080914_Update2.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080914_Update2.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080914_Update2.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080914_Update2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:09:14.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "Data\\RefreshToken.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Data\\RefreshToken.cs",
+              "RelativeToolTip": "Data\\RefreshToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:08:31.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "20241101080408_Update6.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080408_Update6.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080408_Update6.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080408_Update6.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080408_Update6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:04:08.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "20241101080242_Update5.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080242_Update5.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080242_Update5.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080242_Update5.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080242_Update5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:02:42.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "20241101080044_Update4.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080044_Update4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080044_Update4.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101080044_Update4.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101080044_Update4.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:00:44.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "MappingUser.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingUser.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingUser.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingUser.cs",
+              "RelativeToolTip": "Mapper\\MappingUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:04:51.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "MappingFlight.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingFlight.cs",
+              "RelativeDocumentMoniker": "Mapper\\MappingFlight.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\Mapper\\MappingFlight.cs",
+              "RelativeToolTip": "Mapper\\MappingFlight.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:51:46.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "20241101072013_Update3.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101072013_Update3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101072013_Update3.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241101072013_Update3.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241101072013_Update3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:20:13.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "FlightResponse.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\FlightResponse.cs",
+              "RelativeDocumentMoniker": "DTO\\FlightResponse.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\DTO\\FlightResponse.cs",
+              "RelativeToolTip": "DTO\\FlightResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:34:58.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\upgithub\\Project_WebAPI_Flight\\TongKetDuAn\\TheThanh_WebAPI_Flight\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T03:09:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "20241021030352_DBUpdate.cs",
+              "DocumentMoniker": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241021030352_DBUpdate.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241021030352_DBUpdate.cs",
+              "ToolTip": "D:\\Th\u1EF1c t\u1EADp Back-end\\Project_Flight\\TheThanh_WebAPI_Flight\\Migrations\\20241021030352_DBUpdate.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\TheThanh_WebAPI_Flight\\Migrations\\20241021030352_DBUpdate.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T03:03:52.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
